@@ -14,8 +14,9 @@ import javax.swing.JRadioButton;
 import javax.swing.JTextField;
 
 /**
- * AtmProject.java Lance Gundersen 19NOV17
- *
+ * AtmProject.java
+ * Lance Gundersen
+ * 19NOV17
  * @version 1.0
  *
  * This program implements an ATM machine. You can withdrawFunds, depositFunds and transfer money
