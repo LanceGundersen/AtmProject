@@ -95,7 +95,7 @@ public class AtmProject extends JFrame {
 
   public void errorValidNumber() {
     JOptionPane.showMessageDialog(messagePane, "Sorry, please enter a valid amount! " +
-        "If you are trying to withdraw, use $20 amounts.");
+        "If you are trying to withdraw, use $20 increments.");
   }
 
   // Methods
